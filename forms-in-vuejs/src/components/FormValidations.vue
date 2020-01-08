@@ -86,4 +86,16 @@ export default {
 </script>
 
 <style>
+body {
+    text-align: center;
+}
+form {
+    padding: 0;
+    margin:0
+    }
+.form-group{
+    text-align: center;
+    margin: auto 30%;
+    padding: 0;
+}
 </style>
