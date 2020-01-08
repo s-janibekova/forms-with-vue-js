@@ -81,9 +81,7 @@ export default {
         }
     },
     methods:{
-        submit(e){
-            console.log(this.email, this.password, this.address)
-        }
+
     }
 }
 </script>
